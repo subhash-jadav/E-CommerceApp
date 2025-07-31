@@ -34,6 +34,7 @@ This is a modern e-commerce mobile application built using Jetpack Compose and F
 
 **Author:** Subhash Jadav
 GitHub: [https://github.com/subhash-jadav](https://github.com/subhash-jadav)
+Linkedin : https://www.linkedin.com/in/subhash-jadav-69b541247/
 
 This project is intended for educational use and demonstration of Android development with Jetpack Compose and Firebase.
 
